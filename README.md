@@ -39,6 +39,9 @@ function App() {
 }
 
 export default App;
+
+
+export default App;
 📦 Dependencies
 This component uses the following React features:
 

@@ -1,15 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "calculator",
+=======
+  "name": "apifetch",
+>>>>>>> 814956bfd4d361085a46cea18e557be32a0b7f18
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "bootstrap": "^5.3.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.1",
+=======
+    "ajv": "^8.17.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+>>>>>>> 814956bfd4d361085a46cea18e557be32a0b7f18
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
